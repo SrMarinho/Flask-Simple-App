@@ -1,4 +1,3 @@
-import json
 from models.book import Book
 
 def getBooks():
